@@ -1,4 +1,4 @@
-FROM panducheruku/axisbank:v2
+FROM panducheruku/app:v1
 
 COPY target/*.war webapps/
 
