@@ -1,5 +1,5 @@
-FROM kalithkarrahul/tomcatserver:v1
+FROM panducheruku/axisbank:v2
 
 COPY target/*.war webapps/
 
-MAINTAINER "rahulkalithkar1996@gmail.com"
+MAINTAINER "panduranga6459@gmail.com"
