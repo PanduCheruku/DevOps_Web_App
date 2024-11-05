@@ -1,4 +1,4 @@
-FROM panducheruku/myvebapp:v1
+FROM panducheruku/app:1
 
 COPY target/*.war webapps/
 
