@@ -1,4 +1,4 @@
-FROM panducheruku/web:1.0
+FROM panducheruku/webapp:1.0
 
 COPY target/*.war webapps/
 
